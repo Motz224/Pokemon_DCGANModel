@@ -34,8 +34,6 @@ Generator:\
 Discriminator:\
 ![image](https://github.com/Motz224/Pokemon_DCGANModel/assets/82391453/a3cd285c-4e99-49db-9057-fc649c36b564)
 
-TrainingGIF:\
-![image](https://github.com/Motz224/Pokemon_DCGANModel/assets/82391453/3cb5185f-e24f-482b-b5e7-b1af8bf7f9ef)\
 Loss:\
 ![image](https://github.com/Motz224/Pokemon_DCGANModel/assets/82391453/3cdf723e-29cb-4baa-b6d2-b9dd3db8a920)\
 Result:\
